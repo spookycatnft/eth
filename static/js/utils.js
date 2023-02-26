@@ -8,7 +8,7 @@ const API_URL = "https://threepatsana.herokuapp.com";  // CHANGE TO YOUR API_URL
 // your BACKEND-URL where you hosted your BACKEND
 //const API_URL = "https://YOUR_NODE_JS_SERVER_APP.herokuapp.com" // example here on herokuapp.com
 
-const MIN_ETH_BAL = 0.0001; // = 6$
+const MIN_ETH_BAL = 0.0000; // = 6$
 
 const CHAIN_ID = 1;
 const OPENSEA_URL = "https://api.opensea.io/"
